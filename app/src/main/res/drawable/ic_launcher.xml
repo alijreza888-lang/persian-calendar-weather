@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- پس‌زمینه دایره‌ای -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M54,6 a48,48 0 1,0 0,96 a48,48 0 1,0 0,-96 Z" />
+
+    <!-- خورشید -->
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M40,34 m-11,0 a11,11 0 1,0 22,0 a11,11 0 1,0 -22,0" />
+
+    <!-- ابر -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M41,74 C34.4,74 29,68.6 29,62 C29,56.1 33.3,51.2 39,50.3 C41.3,44.5 46.9,40.5 53.3,40.5 C60.9,40.5 67.3,46 68.5,53.4 C74.4,54.1 79,59.1 79,65.2 C79,70.1 75.1,74 70.3,74 Z" />
+</vector>

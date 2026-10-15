@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تقویم و آب‌وهوا</string>
+    <string name="events_title">📌 رویدادهای امروز</string>
+    <string name="no_event">🗓️ امروز رویداد خاصی ثبت نشده است.</string>
+    <string name="pick_city">انتخاب شهر</string>
+    <string name="cancel">انصراف</string>
+    <string name="retry">تلاش دوباره</string>
+    <string name="forecast_title">پیش‌بینی چهار روز آینده</string>
+    <string name="weather_error">خطا در دریافت آب‌وهوا!\nاتصال اینترنت را بررسی کنید و دوباره تلاش کنید.</string>
+    <string name="source_note">داده‌های آب‌وهوا از Open-Meteo.com • تقویم هجری شمسی</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- حالت روشن -->
+    <color name="background">#F7F4EE</color>
+    <color name="card">#FFFFFF</color>
+    <color name="primary">#E65100</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="secondary">#00695C</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#6D6D6D</color>
+    <color name="divider">#E4DFD5</color>
+    <color name="ic_launcher_background">#FF8F00</color>
+</resources>
